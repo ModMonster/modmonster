@@ -33,11 +33,11 @@ I make videos on YouTube and like coding things and playing video games in my fr
 <summary>Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#5](https://github.com/ModMonster/mish/issues/5) in [ModMonster/mish](https://github.com/ModMonster/mish)
-2. ❗️ Opened issue [#6](https://github.com/ModMonster/mish/issues/6) in [ModMonster/mish](https://github.com/ModMonster/mish)
-3. ❗️ Closed issue [#3](https://github.com/ModMonster/mish/issues/3) in [ModMonster/mish](https://github.com/ModMonster/mish)
-4. 🗣 Commented on [#3](https://github.com/ModMonster/mish/issues/3) in [ModMonster/mish](https://github.com/ModMonster/mish)
-5. 🗣 Commented on [#4](https://github.com/ModMonster/mish/issues/4) in [ModMonster/mish](https://github.com/ModMonster/mish)
+1. ❗️ Closed issue [#5](https://github.com/ModMonster/mish/issues/5) in [ModMonster/mish](https://github.com/ModMonster/mish)
+2. 🗣 Commented on [#5](https://github.com/ModMonster/mish/issues/5) in [ModMonster/mish](https://github.com/ModMonster/mish)
+3. 🗣 Commented on [#5](https://github.com/ModMonster/mish/issues/5) in [ModMonster/mish](https://github.com/ModMonster/mish)
+4. ❗️ Opened issue [#6](https://github.com/ModMonster/mish/issues/6) in [ModMonster/mish](https://github.com/ModMonster/mish)
+5. ❗️ Closed issue [#3](https://github.com/ModMonster/mish/issues/3) in [ModMonster/mish](https://github.com/ModMonster/mish)
 <!--END_SECTION:activity-->
 
 
