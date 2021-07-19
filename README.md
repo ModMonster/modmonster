@@ -9,10 +9,10 @@ I make videos on YouTube and like coding things and playing video games in my fr
 
 <!-- YOUTUBE:START -->
 - [Super Mario Galaxy Episode 3!](https://www.youtube.com/watch?v=drlDIDVtzAE)
+- [Super Mario Galaxy Episode 4!](https://www.youtube.com/watch?v=C0Q39fSxNzc)
 - [Super Mario Galaxy Episode 3!](https://www.youtube.com/watch?v=FlJSC7cbv-o)
 - [Super Mario Galaxy Episode 2!](https://www.youtube.com/watch?v=DdHcew-9qmw)
 - [Create Minecraft Mods WITHOUT CODING!! - EP4 - GUI and Procedures | MCreator Tutorial](https://www.youtube.com/watch?v=B5l9B7Kwhfk)
-- [Super Mario Galaxy Episode 1!](https://www.youtube.com/watch?v=DcoY-cOPi0Y)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/modmonster)
