@@ -1,4 +1,4 @@
 TextEdit
 A simple text editor and to-do list.
-1
+1.0.0
 2
