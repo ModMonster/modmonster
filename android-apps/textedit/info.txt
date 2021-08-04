@@ -2,5 +2,5 @@ TextEdit
 A simple text editor and to-do list.
 1.0.0
 false
-com.modmonsterapps.text_edit
+com.modmonster.text_edit
 2
