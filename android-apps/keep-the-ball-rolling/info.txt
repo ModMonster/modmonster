@@ -1,7 +1,7 @@
 Keep the Ball Rolling
 A game where you try to roll a ball into the goal!
 1.0.0
-true
+false
 com.ModMonster.RolyPoly
 3
 game
