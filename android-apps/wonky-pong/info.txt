@@ -1,0 +1,7 @@
+Wonky Pong
+Pong, but you are the ball!
+1.0.0
+true
+com.ModMonster.WonkyPong
+4
+game

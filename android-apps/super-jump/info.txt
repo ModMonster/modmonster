@@ -1,0 +1,7 @@
+Super Jump
+Jump off the clouds as you soar through the sky!
+1.0.0
+false
+com.ModMonsterGames.SuperJump
+4
+game

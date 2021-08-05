@@ -4,3 +4,4 @@ A simple text editor and to-do list.
 false
 com.modmonster.textedit
 2
+app

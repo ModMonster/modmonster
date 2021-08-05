@@ -4,3 +4,4 @@ becky is my hero
 false
 com.modmonsterapps.becky_fan_club
 4
+app
