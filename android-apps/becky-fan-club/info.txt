@@ -1,6 +1,6 @@
 becky fan club
 becky is my hero
-1.1.0
+1.0.0
 false
 com.modmonsterapps.becky_fan_club
 4
