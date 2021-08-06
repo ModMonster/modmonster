@@ -1,0 +1,67 @@
+Amber
+Ammonite 
+Ankylo Skull
+Ankylo Tail
+Ankylo Torso
+Apato Skull
+Apato Tail
+Apato Torso
+Archaeopteryx
+Archelon Skull
+Archelon Torso
+Coprolite
+Dimetrodon Skull
+Dimetrodon Tail
+Dimetrodon Torso
+Dinosaur Egg
+Dinosaur Track
+Diplo Chest
+Diplo Hip
+Diplo Neck
+Diplo Skull
+Diplo Tail
+Fern Fossil
+Ichthyo Skull
+Ichthyo Torso
+Iguanadon Skull
+Iguanadon Tail
+Iguanadon Torso
+Mammoth Skull
+Mammoth Torso
+Megacero Skull
+Megacero Tail
+Megacero Torso
+Pachy Skull
+Pachy Tail
+Pachy Torso
+Parasaur Skull
+Parasaur Tail
+Parasaur Torso
+Peking Man
+Plesio Neck
+Plesio Skull
+Plesio Torso
+Ptera Left Wing
+Ptera Right Wing
+Ptera Skull
+Raptor Skull
+Raptor Torso
+Rex Skull
+Rex Tail
+Rex Torso
+Sabertooth Skull
+Sabertooth Torso
+Shark Tooth
+Spino Skull
+Spino Tail
+Spino Torso
+Stego Skull
+Stego Tail
+Stego Torso
+Styraco Skull
+Styraco Tail
+Styraco Torso
+Tricera Skull
+Tricera Tail
+Tricera Torso
+Trilobite
