@@ -1,0 +1,7 @@
+World Clock
+A clock that lets you see the time in different places!
+1.0.0
+false
+com.modmonsterapps.world_clock
+4
+app
