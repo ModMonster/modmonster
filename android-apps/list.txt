@@ -1,3 +1,4 @@
+coffee-club
 world-clock
 textedit
 becky-fan-club
