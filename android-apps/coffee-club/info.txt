@@ -1,6 +1,6 @@
 Coffee Club
 Track the coffee preferences of different people so that you never misorder again!
-1.0.0
+1.1.0
 false
 com.modmonsterapps.coffee_club
 4
