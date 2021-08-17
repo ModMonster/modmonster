@@ -8,11 +8,11 @@ I make videos on YouTube and like coding things and playing video games in my fr
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [Super Mario Galaxy Episode 9!](https://www.youtube.com/watch?v=yiQSsAx-LoI)
 - [Super Mario Galaxy Episode 8!](https://www.youtube.com/watch?v=IASnEdFbQcU)
 - [Super Mario Galaxy Episode 7!](https://www.youtube.com/watch?v=pJjeGoD_4_A)
 - [Create Minecraft Mods WITHOUT CODING!! - EP6 - Structures and Loot Tables | MCreator Tutorial](https://www.youtube.com/watch?v=jwdF35LM22Q)
 - [Super Mario Galaxy Episode 6!](https://www.youtube.com/watch?v=xHB0KmMNfWA)
+- [Create Minecraft Mods WITHOUT CODING!! - EP5 - Custom Mobs | MCreator Tutorial](https://www.youtube.com/watch?v=1IEML7xz32o)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/modmonster)
