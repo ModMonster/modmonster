@@ -1,0 +1,7 @@
+Monster Messages
+A free messaging app to chat with your friends.
+0.3.0
+true
+com.modmonsterapps.monster_messages
+3
+app
