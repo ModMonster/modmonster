@@ -8,11 +8,11 @@ I make videos on YouTube and like coding things and playing video games in my fr
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Nether and Fishing Dock! - EP3 | Minecraft Alpha 1.2.0](https://www.youtube.com/watch?v=ovDFkmdRimY)
 - [Undertale Episode 1](https://www.youtube.com/watch?v=RahRm4_3Cig)
 - [Finale! - Super Mario Galaxy Episode 10!](https://www.youtube.com/watch?v=pTKO4HxWGEg)
 - [Super Mario Galaxy Episode 9!](https://www.youtube.com/watch?v=yiQSsAx-LoI)
 - [Super Mario Galaxy Episode 8!](https://www.youtube.com/watch?v=IASnEdFbQcU)
-- [Super Mario Galaxy Episode 7!](https://www.youtube.com/watch?v=pJjeGoD_4_A)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/modmonster)
