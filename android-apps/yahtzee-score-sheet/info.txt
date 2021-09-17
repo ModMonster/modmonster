@@ -1,0 +1,7 @@
+Yahtzee Score Sheet
+A digital scoring sheet for the game Yahtzee.
+1.0.0
+false
+com.modmonsterapps.yahtzee_score_sheet
+2
+app
