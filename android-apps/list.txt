@@ -1,3 +1,4 @@
+calculator
 yahtzee-score-sheet
 monster-messages
 coffee-club

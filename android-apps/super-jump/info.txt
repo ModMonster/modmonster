@@ -5,3 +5,4 @@ false
 com.ModMonsterGames.SuperJump
 4
 game
+single

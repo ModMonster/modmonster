@@ -5,3 +5,4 @@ false
 com.ModMonster.RolyPoly
 3
 game
+single

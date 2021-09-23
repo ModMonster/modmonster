@@ -1,0 +1,8 @@
+Calculator
+A basic calculator with some simple scientific functions.
+1.0.0
+false
+com.modmonsterapps.calculator
+3
+app
+multi

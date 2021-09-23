@@ -5,3 +5,4 @@ false
 com.modmonsterapps.yahtzee_score_sheet
 2
 app
+single

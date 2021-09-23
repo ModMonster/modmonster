@@ -5,3 +5,4 @@ false
 com.modmonster.textedit
 2
 app
+single

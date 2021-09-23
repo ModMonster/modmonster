@@ -5,3 +5,4 @@ true
 com.ModMonster.WonkyPong
 4
 game
+single

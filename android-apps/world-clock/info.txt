@@ -5,3 +5,4 @@ false
 com.modmonsterapps.world_clock
 4
 app
+single

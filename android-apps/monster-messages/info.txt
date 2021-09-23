@@ -5,3 +5,4 @@ true
 com.modmonsterapps.monster_messages
 3
 app
+single
