@@ -8,11 +8,11 @@ I make videos on YouTube and like coding things and playing video games in my fr
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [Deltarune Chapter 1 #2](https://www.youtube.com/watch?v=tGt3WrOT8Bg)
 - [Giving away our SOUL! - Undertale Genocide Ending](https://www.youtube.com/watch?v=UkaFWz6dd-w)
 - [EP5 - Sans! | Undertale Genocide Route](https://www.youtube.com/watch?v=TekTGN2LNvU)
 - [Undertale Episode 4](https://www.youtube.com/watch?v=lX5bdhUMxyE)
 - [EP3 - Undyne the Undying! | Undertale Genocide Route](https://www.youtube.com/watch?v=YMNx4f_uv1A)
+- [Undertale Episode 2](https://www.youtube.com/watch?v=MdFbkzv2WNY)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/modmonster)
