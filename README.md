@@ -9,10 +9,10 @@ I make videos on YouTube and like coding things and playing video games in my fr
 
 <!-- YOUTUBE:START -->
 - [Deltarune Chapter 2 #2](https://www.youtube.com/watch?v=cQOXT4EqQNI)
+- [Deltarune Chapter 2 #3](https://www.youtube.com/watch?v=QlffMSk_V7o)
 - [Deltarune Chapter 2 #1](https://www.youtube.com/watch?v=M2ImD6NLxuM)
 - [Deltarune Chapter 1 #3](https://www.youtube.com/watch?v=zOBGbr2y8AM)
 - [Deltarune Chapter 1 #2](https://www.youtube.com/watch?v=tGt3WrOT8Bg)
-- [Giving away our SOUL! - Undertale Genocide Ending](https://www.youtube.com/watch?v=UkaFWz6dd-w)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/modmonster)
