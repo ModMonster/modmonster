@@ -9,10 +9,10 @@ I make videos on YouTube and like coding things and playing video games in my fr
 
 <!-- YOUTUBE:START -->
 - [Pikuniku Episode 1!](https://www.youtube.com/watch?v=YrSwIhPJhy4)
-- [EP1 - Deltarune Chapter 2 Snowgrave / Weird Route](https://www.youtube.com/watch?v=94HJA0tOYJ8)
 - [Deltarune Chapter 2 #5](https://www.youtube.com/watch?v=2A7z5CqfC9E)
 - [Deltarune Chapter 2 #4](https://www.youtube.com/watch?v=PRKMKN1izh8)
 - [Deltarune Chapter 2 #3](https://www.youtube.com/watch?v=QlffMSk_V7o)
+- [Deltarune Chapter 2 #2](https://www.youtube.com/watch?v=cQOXT4EqQNI)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/modmonster)
