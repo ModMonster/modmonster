@@ -33,7 +33,7 @@ I make videos on YouTube and like coding things and playing video games in my fr
 <summary>Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#5](https://github.com/ModMonster/mish/issues/5) in [ModMonster/mish](https://github.com/ModMonster/mish)
+1. ❗️ Opened issue [#1](https://github.com/ModMonster/VMManager/issues/1) in [ModMonster/VMManager](https://github.com/ModMonster/VMManager)
 2. 🗣 Commented on [#5](https://github.com/ModMonster/mish/issues/5) in [ModMonster/mish](https://github.com/ModMonster/mish)
 3. 🗣 Commented on [#5](https://github.com/ModMonster/mish/issues/5) in [ModMonster/mish](https://github.com/ModMonster/mish)
 4. ❗️ Opened issue [#6](https://github.com/ModMonster/mish/issues/6) in [ModMonster/mish](https://github.com/ModMonster/mish)
