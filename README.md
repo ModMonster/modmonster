@@ -9,10 +9,10 @@ I make videos on YouTube and like coding things and playing video games in my fr
 
 <!-- YOUTUBE:START -->
 - [Super Mario Galaxy 2!](https://www.youtube.com/watch?v=4ktLmx6gVQ0)
-- [EP2 - Save the Goombas! | Super Mario Galaxy 2!](https://www.youtube.com/watch?v=ce1Xxsx5l8Q)
 - [Spamton NEO! - Deltarune Chapter 2 Snowgrave / Weird Route](https://www.youtube.com/watch?v=i3xw1XnZRvY)
 - [EP1 - Deltarune Chapter 2 Snowgrave / Weird Route](https://www.youtube.com/watch?v=94HJA0tOYJ8)
 - [Pikuniku Episode 1!](https://www.youtube.com/watch?v=YrSwIhPJhy4)
+- [Deltarune Chapter 2 #5](https://www.youtube.com/watch?v=2A7z5CqfC9E)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/modmonster)
