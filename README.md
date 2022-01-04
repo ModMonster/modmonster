@@ -8,11 +8,11 @@ I make videos on YouTube and like coding things and playing video games in my fr
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [EP2 - Power and Pulverizers! - Minecraft Sky Factory One Let&#39;s Play](https://www.youtube.com/watch?v=-066joWLOZ0)
 - [EP1 - The Sacred Sapling! - Minecraft Sky Factory One Let&#39;s Play](https://www.youtube.com/watch?v=SyejtD5bkhg)
 - [EP2 - Save the Goombas! | Super Mario Galaxy 2!](https://www.youtube.com/watch?v=ce1Xxsx5l8Q)
 - [Super Mario Galaxy 2!](https://www.youtube.com/watch?v=4ktLmx6gVQ0)
 - [Spamton NEO! - Deltarune Chapter 2 Snowgrave / Weird Route](https://www.youtube.com/watch?v=i3xw1XnZRvY)
-- [EP1 - Deltarune Chapter 2 Snowgrave / Weird Route](https://www.youtube.com/watch?v=94HJA0tOYJ8)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/modmonster)
