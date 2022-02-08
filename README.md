@@ -8,11 +8,11 @@ I make videos on YouTube and like coding things and playing video games in my fr
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [EP7 - Finally Flying! - Minecraft Sky Factory One Let&#39;s Play](https://www.youtube.com/watch?v=GJj_7VcWxc4)
 - [EP6 - LOSING EVERYTHING! - Minecraft Sky Factory One Let&#39;s Play](https://www.youtube.com/watch?v=wHXyTDOYWjQ)
 - [Create Minecraft Mods WITHOUT CODING!! - EP8 - Exporting / Building | MCreator Tutorial](https://www.youtube.com/watch?v=fuRJMomqM9I)
 - [EP5 - Mob Farm!- Minecraft Sky Factory One Let&#39;s Play](https://www.youtube.com/watch?v=sVosHpJbeXI)
 - [EP4 - UNLIMITED POWERRRRR!!!!! - Minecraft Sky Factory One Let&#39;s Play](https://www.youtube.com/watch?v=HlFdlvRWs5E)
+- [EP3 - Automatic Ores &amp; Digital Storage! - Minecraft Sky Factory One Let&#39;s Play](https://www.youtube.com/watch?v=6fBYDeRGYU0)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/modmonster)
