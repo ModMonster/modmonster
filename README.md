@@ -8,11 +8,11 @@ I make videos on YouTube and like coding things and playing video games in my fr
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Playing games on the Nintendo 3DS](https://www.youtube.com/watch?v=WyAJ2r_5duc)
 - [Trying to Kidnap Villagers on the ModMonster SMP! - Minecraft SMP Round 2!](https://www.youtube.com/watch?v=cjphut1CkHU)
 - [EP1 - Getting Started! - Minecraft Create: Above and Beyond Let&#39;s Play](https://www.youtube.com/watch?v=C75wRAaMOn4)
 - [EP8 - Finally Flying! - Minecraft Sky Factory One Let&#39;s Play](https://www.youtube.com/watch?v=dD9ABSzOJE0)
 - [Create Minecraft Mods WITHOUT CODING!! - EP9 - Fluids | MCreator Tutorial](https://www.youtube.com/watch?v=d-XsgWN3yK8)
-- [EP7 - Supremium! - Minecraft Sky Factory One Let&#39;s Play](https://www.youtube.com/watch?v=GJj_7VcWxc4)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/modmonster)
