@@ -9,10 +9,10 @@ I make videos on YouTube and like coding things and playing video games in my fr
 
 <!-- YOUTUBE:START -->
 - [Part 2 - ModMonster hangs out with viewers](https://www.youtube.com/watch?v=zb_uNYDogmY)
+- [EP3 - Super Mario Galaxy 2!](https://www.youtube.com/watch?v=5ddtTIq4Fko)
 - [Playing games on the Nintendo 3DS](https://www.youtube.com/watch?v=WyAJ2r_5duc)
 - [Trying to Kidnap Villagers on the ModMonster SMP! - Minecraft SMP Round 2!](https://www.youtube.com/watch?v=cjphut1CkHU)
 - [EP1 - Getting Started! - Minecraft Create: Above and Beyond Let&#39;s Play](https://www.youtube.com/watch?v=C75wRAaMOn4)
-- [EP8 - Finally Flying! - Minecraft Sky Factory One Let&#39;s Play](https://www.youtube.com/watch?v=dD9ABSzOJE0)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/modmonster)
