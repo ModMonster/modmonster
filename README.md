@@ -8,11 +8,11 @@ I make videos on YouTube and like coding things and playing video games in my fr
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [Making a Minecraft mod LIVE with MCreator - Going Bananas!](https://www.youtube.com/watch?v=dmxWdm5QJjg)
 - [EP4 - Super Mario Galaxy 2!](https://www.youtube.com/watch?v=76fq547kylQ)
 - [How to Fix Empty Loot Table Chest in MCreator](https://www.youtube.com/watch?v=ZiKhQegDicM)
 - [Mario Party with Viewers!](https://www.youtube.com/watch?v=Zhcw9qzyT1Y)
 - [EP3 - Super Mario Galaxy 2!](https://www.youtube.com/watch?v=5ddtTIq4Fko)
+- [Part 2 - ModMonster hangs out with viewers](https://www.youtube.com/watch?v=zb_uNYDogmY)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/modmonster)
