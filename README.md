@@ -8,11 +8,11 @@ I make videos on YouTube and like coding things and playing video games in my fr
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [EP10 - Super Mario Galaxy 2](https://www.youtube.com/watch?v=p1S1bqGg7MY)
 - [EP9 - Super Mario Galaxy 2](https://www.youtube.com/watch?v=EH_3Ij7ZOAg)
 - [EP8 - Super Mario Galaxy 2](https://www.youtube.com/watch?v=qq03aNNg1cc)
 - [I have NEVER played modded Terraria before...](https://www.youtube.com/watch?v=rLDldk05FCQ)
 - [EP7 - Super Mario Galaxy 2](https://www.youtube.com/watch?v=ZaKaejXAnE0)
-- [Making a Minecraft mod LIVE with YOUR IDEAS in MCreator!](https://www.youtube.com/watch?v=4-ZmrJTb94I)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/modmonster)
