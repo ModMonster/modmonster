@@ -9,10 +9,10 @@ I make videos on YouTube and like coding things and playing video games in my fr
 
 <!-- YOUTUBE:START -->
 - [SPEEDRUNNING Making a Minecraft Mod LIVE with MCreator!](https://www.youtube.com/watch?v=LswdW-zzdMA)
+- [EP1 - Making a New Weaponry Minecraft Mod LIVE with MCreator!](https://www.youtube.com/watch?v=YCGtBa_L48E)
 - [How To Make a New DIMENSION in Minecraft WITHOUT CODING | MCreator Tutorial](https://www.youtube.com/watch?v=iaPXjwFgOqk)
 - [EP11 - Grand Finale! - Super Mario Galaxy 2](https://www.youtube.com/watch?v=XU0kV9wkKcQ)
 - [EP10 - Super Mario Galaxy 2](https://www.youtube.com/watch?v=p1S1bqGg7MY)
-- [EP9 - Super Mario Galaxy 2](https://www.youtube.com/watch?v=EH_3Ij7ZOAg)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/modmonster)
