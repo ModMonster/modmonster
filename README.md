@@ -8,11 +8,11 @@ I make videos on YouTube and like coding things and playing video games in my fr
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Playing Minecraft LIVE With Viewers for the 3rd time!](https://www.youtube.com/watch?v=WbzIQtyakR0)
 - [Playing Minecraft LIVE With Viewers again!](https://www.youtube.com/watch?v=-UaaFlgdYPM)
 - [Playing Minecraft LIVE With Viewers!](https://www.youtube.com/watch?v=YX3rGzVnr6Y)
 - [EP2 - Baguette Sword?? | Making a New Weaponry Minecraft Mod LIVE with MCreator!](https://www.youtube.com/watch?v=Q2AvjjG7LWc)
 - [EP1 - Making a New Weaponry Minecraft Mod LIVE with MCreator!](https://www.youtube.com/watch?v=YCGtBa_L48E)
-- [SPEEDRUNNING Making a Minecraft Mod LIVE with MCreator!](https://www.youtube.com/watch?v=LswdW-zzdMA)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/modmonster)
