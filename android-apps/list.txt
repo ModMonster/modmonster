@@ -1,3 +1,4 @@
+chicken-thoughts-notifications
 calculator
 yahtzee-score-sheet
 monster-messages

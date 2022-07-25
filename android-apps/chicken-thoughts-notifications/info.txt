@@ -1,0 +1,8 @@
+Chicken Thoughts
+Get a random bird comic every day! This app chooses from 507 Chicken Thoughts randomly.
+1.0.0
+false
+com.modmonster.chicken_thoughts_notifications
+4
+app
+multi
