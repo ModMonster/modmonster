@@ -8,11 +8,11 @@ I make videos on YouTube and like coding things and playing video games in my fr
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [🔴 Minecraft SkyWars LIVE!](https://www.youtube.com/watch?v=vsjOv_sLctk)
 - [🔴 Going to the Nether in Minecraft OP SURVIVAL With Viewers!](https://www.youtube.com/watch?v=TRv-gp6VJIk)
 - [🔴 Minecraft OP SURVIVAL With Viewers!](https://www.youtube.com/watch?v=Dfa___hzjos)
 - [Minecraft Build Battles LIVE With Viewers Again!](https://www.youtube.com/watch?v=GJ0FSM5Zlv4)
 - [Minecraft Build Battles LIVE With Viewers!](https://www.youtube.com/watch?v=dnxfq1ztW10)
-- [EP5 - Adding more weapons to Minecraft with MCreator!](https://www.youtube.com/watch?v=Zrjk5hN1iA8)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/modmonster)
