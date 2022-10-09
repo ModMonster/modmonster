@@ -9,10 +9,10 @@ I make videos on YouTube and like coding things and playing video games in my fr
 
 <!-- YOUTUBE:START -->
 - [How To Make a New DIMENSION in Minecraft WITHOUT CODING | MCreator Tutorial](https://www.youtube.com/watch?v=iaPXjwFgOqk)
-- [EP9 - Super Mario Galaxy 2](https://www.youtube.com/watch?v=EH_3Ij7ZOAg)
-- [EP7 - Super Mario Galaxy 2](https://www.youtube.com/watch?v=ZaKaejXAnE0)
 - [How to Fix Empty Loot Table Chest in MCreator](https://www.youtube.com/watch?v=ZiKhQegDicM)
-- [EP8 - Finally Flying! - Minecraft Sky Factory One Let&#39;s Play](https://www.youtube.com/watch?v=dD9ABSzOJE0)
+- [Create Minecraft Mods WITHOUT CODING!! - EP9 - Fluids | MCreator Tutorial](https://www.youtube.com/watch?v=d-XsgWN3yK8)
+- [Create Minecraft Mods WITHOUT CODING!! - EP8 - Exporting / Building | MCreator Tutorial](https://www.youtube.com/watch?v=fuRJMomqM9I)
+- [Create Minecraft Mods WITHOUT CODING!! - EP7 - Biomes | MCreator Tutorial](https://www.youtube.com/watch?v=NhLpd0sQ36o)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/modmonster)
