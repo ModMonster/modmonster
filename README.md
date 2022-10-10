@@ -8,11 +8,11 @@ I make videos on YouTube and like coding things and playing video games in my fr
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [🔴 Adding JETPACKS to Minecraft with MCreator!](https://www.youtube.com/watch?v=DNPC9I9khoQ)
 - [How To Make a New DIMENSION in Minecraft WITHOUT CODING | MCreator Tutorial](https://www.youtube.com/watch?v=iaPXjwFgOqk)
 - [How to Fix Empty Loot Table Chest in MCreator](https://www.youtube.com/watch?v=ZiKhQegDicM)
 - [Create Minecraft Mods WITHOUT CODING!! - EP9 - Fluids | MCreator Tutorial](https://www.youtube.com/watch?v=d-XsgWN3yK8)
 - [Create Minecraft Mods WITHOUT CODING!! - EP8 - Exporting / Building | MCreator Tutorial](https://www.youtube.com/watch?v=fuRJMomqM9I)
-- [Create Minecraft Mods WITHOUT CODING!! - EP7 - Biomes | MCreator Tutorial](https://www.youtube.com/watch?v=NhLpd0sQ36o)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/modmonster)
