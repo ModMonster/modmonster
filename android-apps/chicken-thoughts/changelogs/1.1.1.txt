@@ -1,0 +1,2 @@
+- Fixed a bug where the Chicken Thoughts would update at ~7:00 EST
+- Added progress indicators when viewing old Chicken Thoughts
