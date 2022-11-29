@@ -8,11 +8,11 @@ I make videos on YouTube and like coding things and playing video games in my fr
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [🔴 Completely ignoring my teammate in SkyWars &lpar;Minecraft Bedrock PVP&rpar;](https://www.youtube.com/watch?v=JvfBizgDyQ4)
-- [🔴 Creating an Elevator mod in Minecraft!](https://www.youtube.com/watch?v=YYfLrphe4jM)
 - [The Magic Wars playtest is complete! &lpar;Minecraft Minigame Server&rpar;](https://www.youtube.com/watch?v=cZjPEHc_M7k)
 - [🔴 Playtesting Magic Wars with viewers! &lpar;Minecraft Server Playtest&rpar;](https://www.youtube.com/watch?v=9UmkhSMucls)
 - [I&#39;m creating a Minecraft server! &lpar;Inspired by Hypixel&rpar;](https://www.youtube.com/watch?v=OQ9vNn9zbr8)
+- [How To Make a New DIMENSION in Minecraft WITHOUT CODING | MCreator Tutorial](https://www.youtube.com/watch?v=iaPXjwFgOqk)
+- [How to Fix Empty Loot Table Chest in MCreator](https://www.youtube.com/watch?v=ZiKhQegDicM)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/modmonster)
