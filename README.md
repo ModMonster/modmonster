@@ -8,11 +8,11 @@ I make videos on YouTube and like coding things and playing video games in my fr
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [🔴 GETTING OP in Pokemon &lpar;POKEMON VIOLET&rpar;](https://www.youtube.com/watch?v=jKnI42_E2ao)
 - [🔴 I have never played a Pokémon game before... &lpar;POKEMON VIOLET&rpar;](https://www.youtube.com/watch?v=k6Cv3gL5xCY)
 - [🔴 The Escapists 2 - The Glorious Regime](https://www.youtube.com/watch?v=_kLEisiCffM)
 - [🔴 The Escapists 2 - Snow Way Out](https://www.youtube.com/watch?v=_HCF2CBfYbg)
 - [🔴 The Escapists 2 - Santa&#39;s Shakedown](https://www.youtube.com/watch?v=OvTvQpTwpXk)
-- [🔴 Super Mario Maker Endless Challenge!](https://www.youtube.com/watch?v=xbKTO7LxHoY)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/modmonster)
