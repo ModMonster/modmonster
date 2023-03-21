@@ -8,11 +8,11 @@ I make videos on YouTube and like coding things and playing video games in my fr
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [🔴 Stabbing more blocks because computer no worky &lpar;BEAT SABER&rpar;](https://www.youtube.com/watch?v=DHsILVGwE5c)
 - [🔴 THE END of Pokémon?? &lpar;POKEMON VIOLET&rpar;](https://www.youtube.com/watch?v=RlDOXCx47ag)
 - [🔴 Whacking boxes with light stick &lpar;beat saber&rpar;](https://www.youtube.com/watch?v=s2pl0Q34by0)
 - [🔴 Becoming the ULTIMATE CHAMPION! &lpar;POKEMON VIOLET&rpar;](https://www.youtube.com/watch?v=Kzt0AJ8663M)
 - [🔴 GETTING OUR REVENGE in Pokémon! &lpar;POKEMON VIOLET&rpar;](https://www.youtube.com/watch?v=8WJnQvnMbV0)
-- [🔴 TAKING DOWN a gang in Pokémon! &lpar;POKEMON VIOLET&rpar;](https://www.youtube.com/watch?v=6LUmAXrBNuQ)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/modmonster)
