@@ -9,10 +9,10 @@ I make videos on YouTube and like coding things and playing video games in my fr
 
 <!-- YOUTUBE:START -->
 - [🔴 Shooting people with paint gun in squid game &lpar;SPLATOON 3&rpar;](https://www.youtube.com/watch?v=FIkYL6ZR1-c)
+- [🔴 Quax Junior is an idiot in Splatoon 3](https://www.youtube.com/watch?v=BN-NOWrNz7o)
 - [🔴 Getting eaten by sharks in boat game &lpar;RAFT&rpar;](https://www.youtube.com/watch?v=C3iZTGaLFRw)
 - [🔴 Stabbing more blocks because computer no worky &lpar;BEAT SABER&rpar;](https://www.youtube.com/watch?v=DHsILVGwE5c)
 - [🔴 THE END of Pokémon?? &lpar;POKEMON VIOLET&rpar;](https://www.youtube.com/watch?v=RlDOXCx47ag)
-- [🔴 Whacking boxes with light stick &lpar;beat saber&rpar;](https://www.youtube.com/watch?v=s2pl0Q34by0)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/modmonster)
