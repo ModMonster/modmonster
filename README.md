@@ -8,11 +8,11 @@ I make videos on YouTube and like coding things and playing video games in my fr
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [🔴 EXPLORING THE LAND in The Legend of Zelda: TotK](https://www.youtube.com/watch?v=uDP0-nSHZzo)
 - [🔴 ESCAPING THE SKY in The Legend of Zelda: TotK](https://www.youtube.com/watch?v=BkFtBa6cNWs)
 - [🔴 ModMonster plays The Legend of Zelda: Tears of the Kingdom](https://www.youtube.com/watch?v=v4OOxB_rRSA)
 - [🔴 THE END of Splatoon 3](https://www.youtube.com/watch?v=mw_kW_VYq4g)
 - [🔴 Quax Junior is kinda useless tbh &lpar;SPLATOON 3&rpar;](https://www.youtube.com/watch?v=QbPWeP6dUgE)
-- [🔴 Quax Junior becomes extremely violent in Splatoon 3](https://www.youtube.com/watch?v=46p4CwaVRa8)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/modmonster)
