@@ -8,11 +8,11 @@ I make videos on YouTube and like coding things and playing video games in my fr
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [🔴 Finally making it to Rito Village? &lpar;The Legend of Zelda: TotK&rpar;](https://www.youtube.com/watch?v=ovsb34QCopg)
 - [🔴 Finally making it to Rito Village? &lpar;The Legend of Zelda: TotK&rpar;](https://www.youtube.com/watch?v=B6rOB7M27oo)
 - [🔴 We&#39;re off to RITO VILLAGE in The Legend of Zelda: TotK](https://www.youtube.com/watch?v=gaxedRDRBS8)
 - [🔴 I have no idea what I&#39;m doing in The Legend of Zelda: TotK](https://www.youtube.com/watch?v=_O5GjCfnruw)
 - [🔴 EXPLORING THE LAND in The Legend of Zelda: TotK](https://www.youtube.com/watch?v=uDP0-nSHZzo)
-- [🔴 ESCAPING THE SKY in The Legend of Zelda: TotK](https://www.youtube.com/watch?v=BkFtBa6cNWs)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/modmonster)
