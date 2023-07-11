@@ -8,11 +8,11 @@ I make videos on YouTube and like coding things and playing video games in my fr
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [I created PAC-MAN, but you play as the ghosts &lpar;GMTK Game Jam 2023&rpar;](https://www.youtube.com/watch?v=_Ua0_lrcLpI)
 - [🔴 Creating an RPG CLASS SYSTEM in MCreator!](https://www.youtube.com/watch?v=zGgp1GGO7xI)
 - [🔴 The Search for Purah in The Legend of Zelda: TotK](https://www.youtube.com/watch?v=DJ3C6XCs3wk)
 - [🔴 The Search for Purah in The Legend of Zelda: TotK](https://www.youtube.com/watch?v=XhrCUkY_Su8)
 - [Playing Minecraft UNTIL I BEAT IT &lpar;Live Stream Trailer&rpar;](https://www.youtube.com/watch?v=lpWTA2I_664)
-- [🔴 Finally making it to Rito Village? &lpar;The Legend of Zelda: TotK&rpar;](https://www.youtube.com/watch?v=B6rOB7M27oo)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/modmonster)
