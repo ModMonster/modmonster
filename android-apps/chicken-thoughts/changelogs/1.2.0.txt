@@ -1,0 +1,3 @@
+- Updated theme to the Material Design 3 standard
+- Adopted a new vertical scrolling design for the "History" page
+- Added ability to tap to expand picture, also allows for zooming.
