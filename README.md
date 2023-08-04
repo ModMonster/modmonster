@@ -8,11 +8,11 @@ I make videos on YouTube and like coding things and playing video games in my fr
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [[WR] A totally legit Minecraft speedrun [0:54.61]](https://www.youtube.com/watch?v=w2dv05PVyAk)
 - [🔴 Turning Tulin into chicken nuggets in The Legend of Zelda: TotK](https://www.youtube.com/watch?v=2JkSu4eNw6I)
 - [🔴 Turning Tulin into chicken nuggets in The Legend of Zelda: TotK](https://www.youtube.com/watch?v=0isdUttL0_8)
 - [🔴 Zora&#39;s Domain! &lpar;The Legend of Zelda: TotK&rpar;](https://www.youtube.com/watch?v=-D0jRacSt28)
 - [🔴 To the next village! &lpar;The Legend of Zelda: TotK&rpar;](https://www.youtube.com/watch?v=DJ3C6XCs3wk)
-- [I Played Minecraft, but I can&#39;t stop streaming UNTIL I BEAT IT](https://www.youtube.com/watch?v=gNql4ZtvZQo)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/modmonster)
