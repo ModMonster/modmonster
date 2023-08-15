@@ -8,10 +8,10 @@ I make videos on YouTube and like coding things and playing video games in my fr
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [🔴 Beating Minecraft in SUPERFLAT &lpar;With @NolanAnimates&rpar;](https://www.youtube.com/watch?v=zLCSwwx9g-w)
 - [Beating Minecraft in SUPERFLAT &lpar;Live Stream Trailer&rpar;](https://www.youtube.com/watch?v=w6kEusZE3wk)
 - [🔴 PART 2: CHAT builds a new MAGIC WARS map! &lpar;Minecraft Server&rpar;](https://www.youtube.com/watch?v=ifVANC-TJmc)
 - [🔴 CHAT builds a new MAGIC WARS map! &lpar;Minecraft Server&rpar;](https://www.youtube.com/watch?v=AGyXOeyeINM)
-- [🔴 Beating Minecraft in SUPERFLAT &lpar;With @NolanAnimates&rpar;](https://www.youtube.com/watch?v=zLCSwwx9g-w)
 - [[WR] A totally legit Minecraft speedrun [0:54.69]](https://www.youtube.com/watch?v=w2dv05PVyAk)
 <!-- YOUTUBE:END -->
 
