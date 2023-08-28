@@ -8,11 +8,11 @@ I make videos on YouTube and like coding things and playing video games in my fr
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [🔴 Just some Minecraft Survival to test channel points - !points](https://www.youtube.com/watch?v=_8oxsMhFLzY)
 - [🔴 Playtesting YOUR Magic Wars map! &lpar;Minecraft Server Playtest&rpar;](https://www.youtube.com/watch?v=JfyoZQ_v-7w)
 - [🔴 Beating Minecraft in SUPERFLAT &lpar;With @NolanAnimates&rpar;](https://www.youtube.com/watch?v=zLCSwwx9g-w)
 - [Beating Minecraft in SUPERFLAT &lpar;Live Stream Trailer&rpar;](https://www.youtube.com/watch?v=w6kEusZE3wk)
 - [🔴 PART 2: CHAT builds a new MAGIC WARS map! &lpar;Minecraft Server&rpar;](https://www.youtube.com/watch?v=ifVANC-TJmc)
-- [🔴 CHAT builds a new MAGIC WARS map! &lpar;Minecraft Server&rpar;](https://www.youtube.com/watch?v=AGyXOeyeINM)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/modmonster)
