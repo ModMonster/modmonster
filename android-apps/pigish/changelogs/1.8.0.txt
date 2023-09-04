@@ -1,0 +1,5 @@
+- Add Minecraft section
+- Add Meme Machine
+- Remove Fish Info
+- Remove DDP
+- Fixed a bug where mobile web was unusable due to a lack of a back button or escape key
