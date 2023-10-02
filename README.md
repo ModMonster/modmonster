@@ -8,11 +8,11 @@ I make videos on YouTube and like coding things and playing video games in my fr
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [🔴 Making an MCreator mod TOGETHER!](https://www.youtube.com/watch?v=9v6yhZvOQuA)
 - [🔴 Dying to slimes because I&#39;m bad at Terraria &lpar;EXPERT MODE&rpar;](https://www.youtube.com/watch?v=4PdujPNFNuM)
 - [🔴 Dying to slimes because I&#39;m bad at Terraria &lpar;EXPERT MODE&rpar;](https://www.youtube.com/watch?v=5JMK1Gq71pg)
 - [🔴 Island Saver by NatWest is a game that exists](https://www.youtube.com/watch?v=12GPtFByMZw)
 - [🔴 Minecraft, but YOU are an assasin!](https://www.youtube.com/watch?v=9r49hq2DYnw)
-- [🔴 Minecraft, but your votes change my game!](https://www.youtube.com/watch?v=0isdUttL0_8)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/modmonster)
