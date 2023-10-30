@@ -8,11 +8,11 @@ I make videos on YouTube and like coding things and playing video games in my fr
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [🔴 Elephant Mario is the goofiest thing in existance &lpar;Super Mario Bros. Wonder&rpar;](https://www.youtube.com/watch?v=fqSfCo4OspQ)
 - [NolanAnimates out of context](https://www.youtube.com/watch?v=E6VWBwCcKCo)
 - [🔴 IT&#39;S FINALLY HERE! &lpar;Super Mario Bros. Wonder&rpar;](https://www.youtube.com/watch?v=IPx397g5hI0)
 - [🔴 Beating the MOON LORD in Terraria! &lpar;Featuring Lofar666&rpar;](https://www.youtube.com/watch?v=2LhulgMBxPs)
 - [🔴 Nick returns to The Legend of Zelda: TotK](https://www.youtube.com/watch?v=5JMK1Gq71pg)
-- [🔴 Making an MCreator mod TOGETHER!](https://www.youtube.com/watch?v=9v6yhZvOQuA)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/modmonster)
