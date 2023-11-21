@@ -8,9 +8,9 @@ I make videos on YouTube and like coding things and playing video games in my fr
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [🔴 Off to World 3 in Mario Wonder! &lpar;Super Mario Bros. Wonder&rpar;](https://www.youtube.com/watch?v=-vgoLM1129g)
 - [thebest](https://www.youtube.com/watch?v=_FSbYgo2R_A)
 - [🔴 Mario Wonder is pure chaos &lpar;Super Mario Bros. Wonder&rpar;](https://www.youtube.com/watch?v=qXcoH8_MJHE)
-- [🔴 Off to World 3 in Mario Wonder! &lpar;Super Mario Bros. Wonder&rpar;](https://www.youtube.com/watch?v=-vgoLM1129g)
 - [🔴 BACK TO SEASON 5 in Fortnite!](https://www.youtube.com/watch?v=qQSwqWXq1uQ)
 - [🔴 Elephant Mario is the goofiest thing in existance &lpar;Super Mario Bros. Wonder&rpar;](https://www.youtube.com/watch?v=fqSfCo4OspQ)
 <!-- YOUTUBE:END -->
