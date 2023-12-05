@@ -8,11 +8,11 @@ I make videos on YouTube and like coding things and playing video games in my fr
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [🔴 Mario eats too many mushrooms in Super Mario Bros. Wonder](https://www.youtube.com/watch?v=7aPDI-iVc7E)
 - [🔴 Master Poplin holds my family hostage in Super Mario Bros. Wonder](https://www.youtube.com/watch?v=qlwzzGMtX-g)
 - [🔴 Off to World 3 in Mario Wonder! &lpar;Super Mario Bros. Wonder&rpar;](https://www.youtube.com/watch?v=-vgoLM1129g)
 - [thebest](https://www.youtube.com/watch?v=_FSbYgo2R_A)
 - [🔴 Mario Wonder is pure chaos &lpar;Super Mario Bros. Wonder&rpar;](https://www.youtube.com/watch?v=qXcoH8_MJHE)
-- [🔴 BACK TO SEASON 5 in Fortnite!](https://www.youtube.com/watch?v=qQSwqWXq1uQ)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/modmonster)
