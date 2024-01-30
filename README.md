@@ -8,11 +8,11 @@ I make videos on YouTube and like coding things and playing video games in my fr
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [🔴 Return to the Flower Kingdom in Mario Wonder](https://www.youtube.com/watch?v=IK52hOZVjes)
 - [🔴 ModMonster plays fox game &lpar;Rynn&#39;s Adventure&rpar;](https://www.youtube.com/watch?v=dxLusPq2akk)
 - [🔴 Maguc Wara 2: Electric Boogaloo &lpar;MAGIC WARS w/Viewers&rpar;](https://www.youtube.com/watch?v=UW9iEXBvkTA)
 - [🔴 magical skirmish &lpar;MAGIC WARS WITH VIEWERS&rpar;](https://www.youtube.com/watch?v=_xzraCkVUbI)
 - [🔴 ModMonster attempts to make a Minecraft trailer and gives up](https://www.youtube.com/watch?v=6A60IxfFkz0)
-- [🔴 nick gets murdered by freddy for 1 hour straight](https://www.youtube.com/watch?v=TKKBNSxKA8s)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/modmonster)
