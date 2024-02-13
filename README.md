@@ -8,11 +8,11 @@ I make videos on YouTube and like coding things and playing video games in my fr
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [🔴 Minecraft, but a random event happens every 5 minutes](https://www.youtube.com/watch?v=I81SIF466Tk)
 - [🔴 Jackbox with viewers; what could go wrong?](https://www.youtube.com/watch?v=LjwZViY2JiY)
 - [🔴 Return to the Flower Kingdom in Mario Wonder](https://www.youtube.com/watch?v=IK52hOZVjes)
 - [🔴 ModMonster plays fox game &lpar;Rynn&#39;s Adventure&rpar;](https://www.youtube.com/watch?v=dxLusPq2akk)
 - [🔴 Maguc Wara 2: Electric Boogaloo &lpar;MAGIC WARS w/Viewers&rpar;](https://www.youtube.com/watch?v=UW9iEXBvkTA)
-- [🔴 magical skirmish &lpar;MAGIC WARS WITH VIEWERS&rpar;](https://www.youtube.com/watch?v=_xzraCkVUbI)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/modmonster)
