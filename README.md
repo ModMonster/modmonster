@@ -31,6 +31,8 @@ I make videos on YouTube and like coding things and playing video games in my fr
 [![ModMonster's GitHub stats](https://github-readme-stats.vercel.app/api?username=modmonster&hide=prs,contribs&show_icons=true&theme=algolia&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=modmonster&layout=compact&theme=algolia&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
+[![GitHub Streak](https://streak-stats.demolab.com/?user=modmonster&theme=algolia&hide_border=true)](https://git.io/streak-stats)
+
 <summary>Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
