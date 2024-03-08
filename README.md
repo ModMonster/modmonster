@@ -8,11 +8,11 @@ I make videos on YouTube and like coding things and playing video games in my fr
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [🔴 Beating Minecraft in HARDCORE! &lpar;With @NolanAnimates&rpar;](https://www.youtube.com/watch?v=Wg-6FV_vvoU)
 - [🔴 Cars the video game is a work of art](https://www.youtube.com/watch?v=CFRSlUGOxEE)
 - [🔴 POKEMON WITH GUNS &lpar;Palworld&rpar;](https://www.youtube.com/watch?v=Yjm5TOuZ500)
 - [🔴 Making Minecraft 2.0 in ONE HOUR](https://www.youtube.com/watch?v=sC6bFt5LYII)
 - [🔴 Minecraft, but a random event happens every 5 minutes](https://www.youtube.com/watch?v=I81SIF466Tk)
-- [🔴 Jackbox with viewers; what could go wrong?](https://www.youtube.com/watch?v=LjwZViY2JiY)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/modmonster)
