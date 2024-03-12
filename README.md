@@ -11,8 +11,8 @@ I make videos on YouTube and like coding things and playing video games in my fr
 - [NolanAnimates out of context &lpar;PART 2&rpar;](https://www.youtube.com/watch?v=WxC7md7OZ_o)
 - [🔴 Beating Minecraft in HARDCORE! &lpar;With @NolanAnimates&rpar;](https://www.youtube.com/watch?v=WNkbbNoFFa0)
 - [Beating Minecraft in HARDCORE MODE &lpar;Live Stream Trailer&rpar;](https://www.youtube.com/watch?v=CnYgB3bwkko)
-- [ModMonster Stream](https://www.youtube.com/watch?v=Wg-6FV_vvoU)
 - [🔴 Cars the video game is a work of art](https://www.youtube.com/watch?v=CFRSlUGOxEE)
+- [🔴 POKEMON WITH GUNS &lpar;Palworld&rpar;](https://www.youtube.com/watch?v=Yjm5TOuZ500)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/modmonster)
