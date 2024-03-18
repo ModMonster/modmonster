@@ -8,11 +8,11 @@ I make videos on YouTube and like coding things and playing video games in my fr
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [🔴 Pepsiman, but every time I hit something I drink Pepsi &lpar;!points&rpar;](https://www.youtube.com/watch?v=m7A32oHFAh8)
 - [🔴 Making cool stream things and hanging out with Aeriel](https://www.youtube.com/watch?v=rwRGNO7O078)
 - [Nick and Nolan take a dump](https://www.youtube.com/watch?v=KfZWSYKpTfY)
 - [NolanAnimates out of context &lpar;PART 2&rpar;](https://www.youtube.com/watch?v=WxC7md7OZ_o)
 - [🔴 Beating Minecraft in HARDCORE! &lpar;With @NolanAnimates&rpar;](https://www.youtube.com/watch?v=WNkbbNoFFa0)
-- [Beating Minecraft in HARDCORE MODE &lpar;Live Stream Trailer&rpar;](https://www.youtube.com/watch?v=CnYgB3bwkko)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/modmonster)
