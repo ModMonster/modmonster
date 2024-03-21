@@ -8,11 +8,11 @@ I make videos on YouTube and like coding things and playing video games in my fr
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Nick discovers AI-Nick &lpar;and forces it to read Zorbeez&rpar;](https://www.youtube.com/watch?v=VFrcqGt0kcw)
 - [🔴 Making an instant replay widget for my stream &lpar;twitch.tv/modmonster2060&rpar;](https://www.youtube.com/watch?v=WMKBdUugrOc)
 - [🔴 Making an instant replay widget for my stream &lpar;twitch.tv/modmonster2060&rpar;](https://www.youtube.com/watch?v=TXNvCO_Bu-4)
 - [🔴 Pepsiman, but every time I die I drink Pepsi &lpar;!points&rpar;](https://www.youtube.com/watch?v=m7A32oHFAh8)
 - [🔴 Making cool stream things and hanging out with Aeriel](https://www.youtube.com/watch?v=rwRGNO7O078)
-- [Nick and Nolan take a dump](https://www.youtube.com/watch?v=KfZWSYKpTfY)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/modmonster)
