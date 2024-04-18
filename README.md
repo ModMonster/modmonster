@@ -8,8 +8,8 @@ I make videos on YouTube and like coding things and playing video games in my fr
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [🔴 If chat makes me laugh, stream ends &lpar;MEDIA SHARE&rpar;](https://www.youtube.com/watch?v=L0EQOEet8Jc)
 - [🔴 ATTEMPT 2 &lpar;Chat makes me laugh, stream ends - MEDIA SHARE&rpar;](https://www.youtube.com/watch?v=bDtdPhwABdE)
+- [🔴 If chat makes me laugh, stream ends &lpar;MEDIA SHARE&rpar;](https://www.youtube.com/watch?v=L0EQOEet8Jc)
 - [🔴 Super Mario Maker 2 ENDLESS LEVEL BINGO](https://www.youtube.com/watch?v=qVu_0m90S2M)
 - [🔴 World&#39;s Best Pepsiman Streamer Tries Again](https://www.youtube.com/watch?v=L2YEIUvijYA)
 - [🔴 FIRST STREAM ON MY NEW CHANNEL 🔥🔥🔥🔥🔥](https://www.youtube.com/watch?v=WBgJWcR3ag0)
