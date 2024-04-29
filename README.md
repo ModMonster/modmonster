@@ -8,11 +8,11 @@ I make videos on YouTube and like coding things and playing video games in my fr
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [🔴 Racing to finish all 48 tracks in Mario Kart 8 Deluxe](https://www.youtube.com/watch?v=FlU_ebH9K8s)
 - [🔴 If anyone says the random word, stream ends. &lpar;Minecraft&rpar;](https://www.youtube.com/watch?v=7x_kqjWfWHA)
 - [🔴 ATTEMPT 2 &lpar;Chat makes me laugh, stream ends - MEDIA SHARE&rpar;](https://www.youtube.com/watch?v=bDtdPhwABdE)
 - [🔴 If chat makes me laugh, stream ends &lpar;MEDIA SHARE&rpar;](https://www.youtube.com/watch?v=L0EQOEet8Jc)
 - [🔴 Super Mario Maker 2 ENDLESS LEVEL BINGO](https://www.youtube.com/watch?v=qVu_0m90S2M)
-- [🔴 World&#39;s Best Pepsiman Streamer Tries Again](https://www.youtube.com/watch?v=L2YEIUvijYA)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/modmonster)
