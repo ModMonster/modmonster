@@ -8,11 +8,11 @@ I make videos on YouTube and like coding things and playing video games in my fr
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [🔴 Minecraft, but if I take damage I switch worlds PART 2](https://www.youtube.com/watch?v=75grUm5JS7Y)
 - [🔴 Minecraft, but if I take damage I switch worlds](https://www.youtube.com/watch?v=nRz-AbfCfgQ)
 - [🔴 Can A.I. survive one night in Minecraft?](https://www.youtube.com/watch?v=ELXY2FJ597Y)
 - [The Quest to Beat Pepsiman](https://www.youtube.com/watch?v=LNf55scI448)
 - [🔴 Super Mario Oddysey speedrun, but every 5 minutes I add brainrot](https://www.youtube.com/watch?v=rpQTJJOMkVU)
-- [🔴 The ModMonster Moderator Election!](https://www.youtube.com/watch?v=G3MyTmajzIE)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/modmonster)
