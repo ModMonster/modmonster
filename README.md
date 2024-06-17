@@ -8,11 +8,11 @@ I make videos on YouTube and like coding things and playing video games in my fr
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [🔴 Playing chess with viewers! &lpar;I AM VERY BAD AT CHESS&rpar;](https://www.youtube.com/watch?v=NWQFi_nZOC0)
 - [🔴 T̴̞͇̉̓Ȩ̶̻̩̅̎͠Ț̷̗͇̬̏R̶̛͕̪̗͈̒͗̎A̵̩͇̍G̴̱̳̮̪̉̐̉È̵͉̋D̶̢̈̕ͅD̶͚̊͑̈́͝Ǫ̷̭͖͔̓̃͒̒N̴͙̻̖̻̐͐̆](https://www.youtube.com/watch?v=GsJyJKcp8-I)
 - [🔴 Minecraft, but if I take damage I switch worlds PART 2](https://www.youtube.com/watch?v=75grUm5JS7Y)
 - [🔴 Minecraft, but if I take damage I switch worlds](https://www.youtube.com/watch?v=nRz-AbfCfgQ)
 - [🔴 Can A.I. survive one night in Minecraft?](https://www.youtube.com/watch?v=ELXY2FJ597Y)
-- [The Quest to Beat Pepsiman](https://www.youtube.com/watch?v=LNf55scI448)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/modmonster)
