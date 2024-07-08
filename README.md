@@ -8,11 +8,11 @@ I make videos on YouTube and like coding things and playing video games in my fr
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [🔴 The Minecraft Speedrun for Ultra-Nerds](https://www.youtube.com/watch?v=rkB40j_PecA)
 - [🔴 Learning how to code Minecraft mods so my viewers stop making fun of me](https://www.youtube.com/watch?v=GU3Rnixngrw)
 - [🔴 The Obligatory Annual MCreator Stream](https://www.youtube.com/watch?v=9tmdirbn8zI)
 - [🔴 The Most Boring Livestream &lpar;DON&#39;T CLICK&rpar;](https://www.youtube.com/watch?v=WxvA8iUY3gk)
 - [🔴 Proving that I am better than Nolan at Minecraft &lpar;BINGO RACE&rpar;](https://www.youtube.com/watch?v=bl9QdbVyFKc)
-- [🔴 Playing chess with viewers! &lpar;I AM VERY GOOD AT CHESS&rpar;](https://www.youtube.com/watch?v=NWQFi_nZOC0)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/modmonster)
