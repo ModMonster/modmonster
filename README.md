@@ -8,11 +8,11 @@ I make videos on YouTube and like coding things and playing video games in my fr
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [🔴 Fine, Potato God. You win.](https://www.youtube.com/watch?v=V5_T8EB6zzg)
 - [🔴 How many Minecraft advancements can I get in 2 hours?](https://www.youtube.com/watch?v=AHhp-Q5SFXg)
 - [🔴 Random Minecraft Challenges w/Viewers!](https://www.youtube.com/watch?v=ON0khyOpDgA)
 - [🔴 Minecraft Item Race w/Viewers](https://www.youtube.com/watch?v=Kgn8ziiYAaI)
 - [🔴 Minecraft but I spawn in the Nether &lpar;ALSO I ONLY HAVE 1/2 HEART&rpar;](https://www.youtube.com/watch?v=ZRFhSjlWMys)
-- [🔴 The Minecraft Speedrun for Ultra-Nerds](https://www.youtube.com/watch?v=rkB40j_PecA)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/modmonster)
