@@ -8,7 +8,7 @@ I make videos on YouTube and like coding things and playing video games in my fr
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [🔴 Can my YouTube viewers make a coherent Mario Maker level? &lpar;!join&rpar;](https://www.youtube.com/watch?v=4eOtyjA-z9o)
+- [🔴 Can my YouTube viewers make a coherent Mario Maker level?](https://www.youtube.com/watch?v=4eOtyjA-z9o)
 - [🔴 Trying to beat Minecraft Hardcore AGAIN! &lpar;Featuring @NolanAnimates&rpar;](https://www.youtube.com/watch?v=2rgoH5g1LTY)
 - [🔴 Can I beat Super Mario Odyssey before Nolan learns to drive?](https://www.youtube.com/watch?v=DbHNFzNZB3g)
 - [🔴 Fine, Potato God. You win.](https://www.youtube.com/watch?v=V5_T8EB6zzg)
