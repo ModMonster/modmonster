@@ -8,11 +8,11 @@ I make videos on YouTube and like coding things and playing video games in my fr
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [🔴 Playing online party games with my chat](https://www.youtube.com/watch?v=-a29zPEMcj0)
 - [🔴 Speedrunning random items in really old Minecraft versions](https://www.youtube.com/watch?v=4buwTKypoEg)
 - [🔴 Can my YouTube viewers make a coherent Mario Maker level?](https://www.youtube.com/watch?v=4eOtyjA-z9o)
 - [🔴 Trying to beat Minecraft Hardcore AGAIN! &lpar;Featuring @NolanAnimates&rpar;](https://www.youtube.com/watch?v=2rgoH5g1LTY)
 - [🔴 Can I beat Super Mario Odyssey before Nolan learns to drive?](https://www.youtube.com/watch?v=DbHNFzNZB3g)
-- [🔴 Fine, Potato God. You win.](https://www.youtube.com/watch?v=V5_T8EB6zzg)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/modmonster)
