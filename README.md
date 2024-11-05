@@ -8,11 +8,11 @@ I make videos on YouTube and like coding things and playing video games in my fr
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [🔴 FNAF 2: Electric Boogaloo](https://www.youtube.com/watch?v=neETIgZrbuI)
 - [🔴 Speedrunning 9999 coins in Super Mario Odyssey&#39;s Balloon World](https://www.youtube.com/watch?v=CIl8nuXd2OM)
 - [🔴 Playing Super Mario Odyssey DLC???](https://www.youtube.com/watch?v=EaCSF8CUDAw)
 - [🔴 MINECRAFT MANHUNT WITH VIEWERS](https://www.youtube.com/watch?v=ffXQTdPNuOY)
 - [🔴 How many endless easy levels can I beat in 100 minutes? &lpar;Super Mario Maker 2&rpar;](https://www.youtube.com/watch?v=W6xvd8sJcb4)
-- [🔴 &lpar;Q&amp;A&rpar;: Answering your questions + Live streaming setup showcase!](https://www.youtube.com/watch?v=GYsq9qg8-AA)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/modmonster)
