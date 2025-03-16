@@ -9,12 +9,12 @@ I make videos on YouTube and like to program and play video games in my free tim
 ### 📺 Latest YouTube Videos
 
 <!-- BEGIN YOUTUBE-CARDS -->
+[![Is he okay?](https://ytcards.demolab.com/?id=GMhC_kJgetk&title=Is+he+okay%3F&lang=en&timestamp=1742151618&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Is he okay?")](https://www.youtube.com/watch?v=GMhC_kJgetk)
 [![Twenty Five](https://ytcards.demolab.com/?id=_EZlXqFGTdU&title=Twenty+Five&lang=en&timestamp=1742065220&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Twenty Five")](https://www.youtube.com/watch?v=_EZlXqFGTdU)
 [![Planet Drama](https://ytcards.demolab.com/?id=0RrnaYERw6o&title=Planet+Drama&lang=en&timestamp=1741978801&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Planet Drama")](https://www.youtube.com/watch?v=0RrnaYERw6o)
 [![ModMonster finds the magic word](https://ytcards.demolab.com/?id=RhYmqO-8rzg&title=ModMonster+finds+the+magic+word&lang=en&timestamp=1741892431&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "ModMonster finds the magic word")](https://www.youtube.com/watch?v=RhYmqO-8rzg)
 [![IHATEMODMONSTER](https://ytcards.demolab.com/?id=hXgoEMfgeMQ&title=IHATEMODMONSTER&lang=en&timestamp=1741719625&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "IHATEMODMONSTER")](https://www.youtube.com/watch?v=hXgoEMfgeMQ)
 [![🔴 Ranking EVERY Discord Activity with NolanAnimates](https://ytcards.demolab.com/?id=pFNI2ANoeW8&title=%F0%9F%94%B4+Ranking+EVERY+Discord+Activity+with+NolanAnimates&lang=en&timestamp=1741656878&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "🔴 Ranking EVERY Discord Activity with NolanAnimates")](https://www.youtube.com/watch?v=pFNI2ANoeW8)
-[![🔴 Becoming the world's greatest speedrunner in A Game About Digging A Hole](https://ytcards.demolab.com/?id=ZJ0d722QnII&title=%F0%9F%94%B4+Becoming+the+world%27s+greatest+speedrunner+in+A+Game+About+Digging+A+Hole&lang=en&timestamp=1741054575&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "🔴 Becoming the world's greatest speedrunner in A Game About Digging A Hole")](https://www.youtube.com/watch?v=ZJ0d722QnII)
 <!-- END YOUTUBE-CARDS -->
 
 [![More Videos](https://img.shields.io/badge/More%20Videos-2962FF?style=for-the-badge&logo=youtube)](https://youtube.com/modmonster)
