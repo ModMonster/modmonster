@@ -9,12 +9,12 @@ I make videos on YouTube and like to program and play video games in my free tim
 ### 📺 Latest YouTube Videos
 
 <!-- BEGIN YOUTUBE-CARDS -->
+[![He's homeless!](https://ytcards.demolab.com/?id=Yt8XeiRmNxA&title=He%27s+homeless%21&lang=en&timestamp=1742583633&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "He's homeless!")](https://www.youtube.com/watch?v=Yt8XeiRmNxA)
 [![Discord Whiteboard](https://ytcards.demolab.com/?id=MP4iTX0ByfM&title=Discord+Whiteboard&lang=en&timestamp=1742497225&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Discord Whiteboard")](https://www.youtube.com/watch?v=MP4iTX0ByfM)
 [![Spite](https://ytcards.demolab.com/?id=8I6FWB7bWKA&title=Spite&lang=en&timestamp=1742410804&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Spite")](https://www.youtube.com/watch?v=8I6FWB7bWKA)
 [![Nolan is depressed :(](https://ytcards.demolab.com/?id=B5qMK7w2ON8&title=Nolan+is+depressed+%3A%28&lang=en&timestamp=1742324407&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Nolan is depressed :(")](https://www.youtube.com/watch?v=B5qMK7w2ON8)
 [![🔴 ModMonster climbs a mountain (CELESTE PART 1)](https://ytcards.demolab.com/?id=qXwH_lHmDbQ&title=%F0%9F%94%B4+ModMonster+climbs+a+mountain+%28CELESTE+PART+1%29&lang=en&timestamp=1742261189&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "🔴 ModMonster climbs a mountain (CELESTE PART 1)")](https://www.youtube.com/watch?v=qXwH_lHmDbQ)
 [![Is he okay?](https://ytcards.demolab.com/?id=GMhC_kJgetk&title=Is+he+okay%3F&lang=en&timestamp=1742151618&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Is he okay?")](https://www.youtube.com/watch?v=GMhC_kJgetk)
-[![Twenty Five](https://ytcards.demolab.com/?id=_EZlXqFGTdU&title=Twenty+Five&lang=en&timestamp=1742065220&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Twenty Five")](https://www.youtube.com/watch?v=_EZlXqFGTdU)
 <!-- END YOUTUBE-CARDS -->
 
 [![More Videos](https://img.shields.io/badge/More%20Videos-2962FF?style=for-the-badge&logo=youtube)](https://youtube.com/modmonster)
