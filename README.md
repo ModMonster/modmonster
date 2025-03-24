@@ -9,12 +9,12 @@ I make videos on YouTube and like to program and play video games in my free tim
 ### 📺 Latest YouTube Videos
 
 <!-- BEGIN YOUTUBE-CARDS -->
+[![🔴 being a nuisance for 2 hours straight (untitled goose game)](https://ytcards.demolab.com/?id=dHZo5OugkxA&title=%F0%9F%94%B4+being+a+nuisance+for+2+hours+straight+%28untitled+goose+game%29&lang=en&timestamp=1742857037&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "🔴 being a nuisance for 2 hours straight (untitled goose game)")](https://www.youtube.com/watch?v=dHZo5OugkxA)
 [![Mario Golf](https://ytcards.demolab.com/?id=XA2Rce8WSaY&title=Mario+Golf&lang=en&timestamp=1742756423&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Mario Golf")](https://www.youtube.com/watch?v=XA2Rce8WSaY)
 [![Worst Celeste Player Award 🏅](https://ytcards.demolab.com/?id=dqfDTtesl5U&title=Worst+Celeste+Player+Award+%F0%9F%8F%85&lang=en&timestamp=1742670024&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Worst Celeste Player Award 🏅")](https://www.youtube.com/watch?v=dqfDTtesl5U)
 [![He's homeless!](https://ytcards.demolab.com/?id=Yt8XeiRmNxA&title=He%27s+homeless%21&lang=en&timestamp=1742583633&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "He's homeless!")](https://www.youtube.com/watch?v=Yt8XeiRmNxA)
 [![Discord Whiteboard](https://ytcards.demolab.com/?id=MP4iTX0ByfM&title=Discord+Whiteboard&lang=en&timestamp=1742497225&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Discord Whiteboard")](https://www.youtube.com/watch?v=MP4iTX0ByfM)
 [![Spite](https://ytcards.demolab.com/?id=8I6FWB7bWKA&title=Spite&lang=en&timestamp=1742410804&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Spite")](https://www.youtube.com/watch?v=8I6FWB7bWKA)
-[![Nolan is depressed :(](https://ytcards.demolab.com/?id=B5qMK7w2ON8&title=Nolan+is+depressed+%3A%28&lang=en&timestamp=1742324407&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Nolan is depressed :(")](https://www.youtube.com/watch?v=B5qMK7w2ON8)
 <!-- END YOUTUBE-CARDS -->
 
 [![More Videos](https://img.shields.io/badge/More%20Videos-2962FF?style=for-the-badge&logo=youtube)](https://youtube.com/modmonster)
