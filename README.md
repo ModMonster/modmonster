@@ -9,12 +9,12 @@ I make videos on YouTube and like to program and play video games in my free tim
 ### 📺 Latest YouTube Videos
 
 <!-- BEGIN YOUTUBE-CARDS -->
+[![Hat Thief](https://ytcards.demolab.com/?id=6rfWZ_e_Rcg&title=Hat+Thief&lang=en&timestamp=1743188409&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Hat Thief")](https://www.youtube.com/watch?v=6rfWZ_e_Rcg)
 [![Flint and Steel](https://ytcards.demolab.com/?id=DtHinAk7sQQ&title=Flint+and+Steel&lang=en&timestamp=1743102015&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Flint and Steel")](https://www.youtube.com/watch?v=DtHinAk7sQQ)
 [![ModMonster out of context](https://ytcards.demolab.com/?id=FtfqQzwmtPM&title=ModMonster+out+of+context&lang=en&timestamp=1743015615&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "ModMonster out of context")](https://www.youtube.com/watch?v=FtfqQzwmtPM)
 [![ModMonster tries dating](https://ytcards.demolab.com/?id=fqTgvYjWwl0&title=ModMonster+tries+dating&lang=en&timestamp=1742929226&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "ModMonster tries dating")](https://www.youtube.com/watch?v=fqTgvYjWwl0)
 [![🔴 being a nuisance for 2 hours straight (untitled goose game)](https://ytcards.demolab.com/?id=dHZo5OugkxA&title=%F0%9F%94%B4+being+a+nuisance+for+2+hours+straight+%28untitled+goose+game%29&lang=en&timestamp=1742865324&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "🔴 being a nuisance for 2 hours straight (untitled goose game)")](https://www.youtube.com/watch?v=dHZo5OugkxA)
 [![Mario Golf](https://ytcards.demolab.com/?id=XA2Rce8WSaY&title=Mario+Golf&lang=en&timestamp=1742756423&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Mario Golf")](https://www.youtube.com/watch?v=XA2Rce8WSaY)
-[![Worst Celeste Player Award 🏅](https://ytcards.demolab.com/?id=dqfDTtesl5U&title=Worst+Celeste+Player+Award+%F0%9F%8F%85&lang=en&timestamp=1742670024&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Worst Celeste Player Award 🏅")](https://www.youtube.com/watch?v=dqfDTtesl5U)
 <!-- END YOUTUBE-CARDS -->
 
 [![More Videos](https://img.shields.io/badge/More%20Videos-2962FF?style=for-the-badge&logo=youtube)](https://youtube.com/modmonster)
