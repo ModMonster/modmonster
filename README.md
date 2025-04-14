@@ -9,12 +9,12 @@ I make videos on YouTube and like to program and play video games in my free tim
 ### 📺 Latest YouTube Videos
 
 <!-- BEGIN YOUTUBE-CARDS -->
+[![🔴 100%ing the goose game (PART 2)](https://ytcards.demolab.com/?id=bOP0izoap1o&title=%F0%9F%94%B4+100%25ing+the+goose+game+%28PART+2%29&lang=en&timestamp=1744671404&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "🔴 100%ing the goose game (PART 2)")](https://www.youtube.com/watch?v=bOP0izoap1o)
 [![bone_boy.mp4](https://ytcards.demolab.com/?id=tpByhgdELWI&title=bone_boy.mp4&lang=en&timestamp=1744313414&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "bone_boy.mp4")](https://www.youtube.com/watch?v=tpByhgdELWI)
 [![🔴 100%ing the goose game](https://ytcards.demolab.com/?id=No_jlG2FeFc&title=%F0%9F%94%B4+100%25ing+the+goose+game&lang=en&timestamp=1744075339&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "🔴 100%ing the goose game")](https://www.youtube.com/watch?v=No_jlG2FeFc)
 [![🔴 goose invades village: ruins lives (untitled goose game)](https://ytcards.demolab.com/?id=CeFg-mGoRfM&title=%F0%9F%94%B4+goose+invades+village%3A+ruins+lives+%28untitled+goose+game%29&lang=en&timestamp=1743470082&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "🔴 goose invades village: ruins lives (untitled goose game)")](https://www.youtube.com/watch?v=CeFg-mGoRfM)
 [![Hat Thief](https://ytcards.demolab.com/?id=6rfWZ_e_Rcg&title=Hat+Thief&lang=en&timestamp=1743188409&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Hat Thief")](https://www.youtube.com/watch?v=6rfWZ_e_Rcg)
 [![Flint and Steel](https://ytcards.demolab.com/?id=DtHinAk7sQQ&title=Flint+and+Steel&lang=en&timestamp=1743102015&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Flint and Steel")](https://www.youtube.com/watch?v=DtHinAk7sQQ)
-[![ModMonster out of context](https://ytcards.demolab.com/?id=FtfqQzwmtPM&title=ModMonster+out+of+context&lang=en&timestamp=1743015615&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "ModMonster out of context")](https://www.youtube.com/watch?v=FtfqQzwmtPM)
 <!-- END YOUTUBE-CARDS -->
 
 [![More Videos](https://img.shields.io/badge/More%20Videos-2962FF?style=for-the-badge&logo=youtube)](https://youtube.com/modmonster)
