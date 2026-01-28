@@ -39,7 +39,7 @@ I make videos on YouTube and like to program and play video games in my free tim
 <summary>Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#8145](https://github.com/SoftFever/OrcaSlicer/issues/8145#issuecomment-3053232728) in [SoftFever/OrcaSlicer](https://github.com/SoftFever/OrcaSlicer)
+1. 🚀 Published release [Release v1.21.11-1](https://github.com/ModMonster/MagicWarsPlugin/releases/tag/v1.21.11-1) in [ModMonster/MagicWarsPlugin](https://github.com/ModMonster/MagicWarsPlugin)
 2. ❗️ Opened issue [#1](https://github.com/ModMonster/VMManager/issues/1) in [ModMonster/VMManager](https://github.com/ModMonster/VMManager)
 3. 🗣 Commented on [#5](https://github.com/ModMonster/mish/issues/5) in [ModMonster/mish](https://github.com/ModMonster/mish)
 4. ❗️ Opened issue [#6](https://github.com/ModMonster/mish/issues/6) in [ModMonster/mish](https://github.com/ModMonster/mish)
