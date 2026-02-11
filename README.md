@@ -39,11 +39,11 @@ I make videos on YouTube and like to program and play video games in my free tim
 <summary>Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [Release v1.21.11-1](https://github.com/ModMonster/MagicWarsPlugin/releases/tag/v1.21.11-1) in [ModMonster/MagicWarsPlugin](https://github.com/ModMonster/MagicWarsPlugin)
-2. ❗️ Opened issue [#1](https://github.com/ModMonster/VMManager/issues/1) in [ModMonster/VMManager](https://github.com/ModMonster/VMManager)
-3. 🗣 Commented on [#5](https://github.com/ModMonster/mish/issues/5) in [ModMonster/mish](https://github.com/ModMonster/mish)
-4. ❗️ Opened issue [#6](https://github.com/ModMonster/mish/issues/6) in [ModMonster/mish](https://github.com/ModMonster/mish)
-5. ❗️ Closed issue [#3](https://github.com/ModMonster/mish/issues/3) in [ModMonster/mish](https://github.com/ModMonster/mish)
+1. 🔓 Reopened issue [#1](https://github.com/ModMonster/Taskly/issues/1) in [ModMonster/Taskly](https://github.com/ModMonster/Taskly)
+2. 🗣 Commented on [#1](https://github.com/ModMonster/Taskly/issues/1#issuecomment-3881618141) in [ModMonster/Taskly](https://github.com/ModMonster/Taskly)
+3. 🔒 Closed issue [#1](https://github.com/ModMonster/Taskly/issues/1) in [ModMonster/Taskly](https://github.com/ModMonster/Taskly)
+4. ℹ️ Labeled issue [#1](https://github.com/ModMonster/Taskly/issues/1) in [ModMonster/Taskly](https://github.com/ModMonster/Taskly)
+5. ❗ Opened issue [#1](https://github.com/ModMonster/Taskly/issues/1) in [ModMonster/Taskly](https://github.com/ModMonster/Taskly)
 <!--END_SECTION:activity-->
 
 
