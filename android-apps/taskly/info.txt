@@ -1,0 +1,8 @@
+Taskly
+A simple task management app. Add to-dos, set due dates, and more!
+1.0.0
+false
+ca.modmonster.taskly
+5
+app
+multi
