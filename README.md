@@ -39,11 +39,11 @@ I make videos on YouTube and like to program and play video games in my free tim
 <summary>Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. ℹ️ Labeled issue [#2](https://github.com/ModMonster/Taskly/issues/2) in [ModMonster/Taskly](https://github.com/ModMonster/Taskly)
-2. ❗ Opened issue [#2](https://github.com/ModMonster/Taskly/issues/2) in [ModMonster/Taskly](https://github.com/ModMonster/Taskly)
-3. 🚀 Published release [Taskly v1.0.0](https://github.com/ModMonster/Taskly/releases/tag/v1.0.0) in [ModMonster/Taskly](https://github.com/ModMonster/Taskly)
-4. 🔒 Closed issue [#1](https://github.com/ModMonster/Taskly/issues/1) in [ModMonster/Taskly](https://github.com/ModMonster/Taskly)
-5. 🔓 Reopened issue [#1](https://github.com/ModMonster/Taskly/issues/1) in [ModMonster/Taskly](https://github.com/ModMonster/Taskly)
+1. ℹ️ Labeled issue [#3](https://github.com/ModMonster/Taskly/issues/3) in [ModMonster/Taskly](https://github.com/ModMonster/Taskly)
+2. ❗ Opened issue [#3](https://github.com/ModMonster/Taskly/issues/3) in [ModMonster/Taskly](https://github.com/ModMonster/Taskly)
+3. ℹ️ Labeled issue [#2](https://github.com/ModMonster/Taskly/issues/2) in [ModMonster/Taskly](https://github.com/ModMonster/Taskly)
+4. ❗ Opened issue [#2](https://github.com/ModMonster/Taskly/issues/2) in [ModMonster/Taskly](https://github.com/ModMonster/Taskly)
+5. 🚀 Published release [Taskly v1.0.0](https://github.com/ModMonster/Taskly/releases/tag/v1.0.0) in [ModMonster/Taskly](https://github.com/ModMonster/Taskly)
 <!--END_SECTION:activity-->
 
 
