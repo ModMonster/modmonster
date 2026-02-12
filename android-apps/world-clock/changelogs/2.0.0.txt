@@ -1,0 +1,2 @@
+- Fixed a crash that would occur on newer versions of Android
+- Updated UI using the Material Design 3 standard
