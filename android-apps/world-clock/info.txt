@@ -2,7 +2,7 @@ World Clock
 A clock that lets you see the time in different places!
 2.0.0
 false
-com.modmonsterapps.world_clock
+com.modmonsterapps.world_time_app
 4
 app
 multi
