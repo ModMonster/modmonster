@@ -1,0 +1,6 @@
+- WARNING: This release changes how notes are stored. It will appear as a separate app, but your notes and tasks will not transfer over!
+
+- Updated app UI to use new Material Design 3 standard
+- Changed app icon
+- Changing settings will no longer require an app restart
+- Will now use system dark mode setting by default
