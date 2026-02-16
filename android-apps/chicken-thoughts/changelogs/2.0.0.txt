@@ -1,0 +1,6 @@
+- Fixed a crash that would occur on newer versions of Android
+- Revamped the app with a new database to make Chicken Thoughts appear again
+- Add some useful settings and personalization options
+- Add the Chickendex! Gotta catch em' all!
+- Add seasons and holidays; on certain days you will see special Chicken Thoughts!
+- Many more small improvements and fixes!

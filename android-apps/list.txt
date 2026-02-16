@@ -1,6 +1,6 @@
+chicken-thoughts
 taskly
 pigish
-chicken-thoughts
 calculator
 yahtzee-score-sheet
 monster-messages
