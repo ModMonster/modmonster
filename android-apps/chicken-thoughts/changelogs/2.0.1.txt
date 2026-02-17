@@ -1,0 +1,2 @@
+- Fixed an infinite loading bug that would occur when viewing a multi-image Chicken Thought with caching enabled
+- Changed the internal handling of the Chickendex view page to make the carousel smoother
