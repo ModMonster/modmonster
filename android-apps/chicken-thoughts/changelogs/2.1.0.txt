@@ -1,0 +1,16 @@
+Highlights
+- 🔔 Added notifications!
+- ✨ Updated UI!
+- ⏩ Sped up downloads!
+
+All changes
+- Added daily notifications which will be sent every morning
+- Significantly sped up cache downloading by merging cache download into ZIP files
+- Added a message to force users to re-download caches when they are outdated
+- Updated some UI elements to Material 3 Expressive
+  - Loading indicator has been updated
+  - Navigation rail for larger screens has been updated
+  - Switches in the settings menu now have X and check icons
+  - Navigation bar now uses outlined icons when page is not selected
+  - Added the settings button in the top app bar to every page
+- Added vibration on certain UI elements (can be toggled in the settings menu)
