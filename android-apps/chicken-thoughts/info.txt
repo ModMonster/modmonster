@@ -1,6 +1,6 @@
 Chicken Thoughts
 Get a random bird comic every day! Try to collect all 683 Chicken Thoughts!
-2.0.1
+2.1.0
 true
 com.modmonster.chicken_thoughts_notifications
 4
