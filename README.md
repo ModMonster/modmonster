@@ -39,11 +39,11 @@ I make videos on YouTube and like to program and play video games in my free tim
 <summary>Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. ℹ️ Unlabeled issue [#11](https://github.com/ModMonster/chicken_thoughts/issues/11) in [ModMonster/chicken_thoughts](https://github.com/ModMonster/chicken_thoughts)
-2. ℹ️ Labeled issue [#11](https://github.com/ModMonster/chicken_thoughts/issues/11) in [ModMonster/chicken_thoughts](https://github.com/ModMonster/chicken_thoughts)
-3. 🔒 Closed issue [#23](https://github.com/ModMonster/chicken_thoughts/issues/23) in [ModMonster/chicken_thoughts](https://github.com/ModMonster/chicken_thoughts)
-4. 🚀 Published release [Chicken Thoughts b2.1.3](https://github.com/ModMonster/chicken_thoughts/releases/tag/b2.1.3) in [ModMonster/chicken_thoughts](https://github.com/ModMonster/chicken_thoughts)
-5. 🔒 Closed issue [#29](https://github.com/ModMonster/chicken_thoughts/issues/29) in [ModMonster/chicken_thoughts](https://github.com/ModMonster/chicken_thoughts)
+1. 🚀 Published release [v2.2.0](https://github.com/ModMonster/chicken_thoughts/releases/tag/v2.2.0) in [ModMonster/chicken_thoughts](https://github.com/ModMonster/chicken_thoughts)
+2. 🗣 Commented on [#21](https://github.com/ModMonster/chicken_thoughts/issues/21#issuecomment-3946702898) in [ModMonster/chicken_thoughts](https://github.com/ModMonster/chicken_thoughts)
+3. 🔒 Closed issue [#7](https://github.com/ModMonster/chicken_thoughts/issues/7) in [ModMonster/chicken_thoughts](https://github.com/ModMonster/chicken_thoughts)
+4. 🗣 Commented on [#7](https://github.com/ModMonster/chicken_thoughts/issues/7#issuecomment-3946696459) in [ModMonster/chicken_thoughts](https://github.com/ModMonster/chicken_thoughts)
+5. 🔒 Closed issue [#27](https://github.com/ModMonster/chicken_thoughts/issues/27) in [ModMonster/chicken_thoughts](https://github.com/ModMonster/chicken_thoughts)
 <!--END_SECTION:activity-->
 
 
