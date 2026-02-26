@@ -9,7 +9,12 @@ I make videos on YouTube and like to program and play video games in my free tim
 ### 📺 Latest YouTube Videos
 
 <!-- BEGIN YOUTUBE-CARDS -->
-
+[![🔴 SMARIE IS DEAD (the chatbot lol my bird is fine)](https://ytcards.demolab.com/?id=ho9KAfrbdVQ&title=%F0%9F%94%B4+SMARIE+IS+DEAD+%28the+chatbot+lol+my+bird+is+fine%29&lang=en&timestamp=1772062653&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "🔴 SMARIE IS DEAD (the chatbot lol my bird is fine)")](https://www.youtube.com/watch?v=ho9KAfrbdVQ)
+[![🔴 TIMMY: HARD MODE (terraria 9)](https://ytcards.demolab.com/?id=0RBa2m6Eo3Y&title=%F0%9F%94%B4+TIMMY%3A+HARD+MODE+%28terraria+9%29&lang=en&timestamp=1771900070&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "🔴 TIMMY: HARD MODE (terraria 9)")](https://www.youtube.com/watch?v=0RBa2m6Eo3Y)
+[![🔴 ADDING GAMBLING TO MY STREAM (coding stream)](https://ytcards.demolab.com/?id=CVMdE715OAA&title=%F0%9F%94%B4+ADDING+GAMBLING+TO+MY+STREAM+%28coding+stream%29&lang=en&timestamp=1771641186&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "🔴 ADDING GAMBLING TO MY STREAM (coding stream)")](https://www.youtube.com/watch?v=CVMdE715OAA)
+[![🔴 your weekly timmy hangout time!! (terraria 8)](https://ytcards.demolab.com/?id=wv0-pPE1J5Y&title=%F0%9F%94%B4+your+weekly+timmy+hangout+time%21%21+%28terraria+8%29&lang=en&timestamp=1771294843&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "🔴 your weekly timmy hangout time!! (terraria 8)")](https://www.youtube.com/watch?v=wv0-pPE1J5Y)
+[![🔴 ModMonster continues to climb a mountain (CELESTE PART 2)](https://ytcards.demolab.com/?id=caWoOP0fPVg&title=%F0%9F%94%B4+ModMonster+continues+to+climb+a+mountain+%28CELESTE+PART+2%29&lang=en&timestamp=1770691285&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "🔴 ModMonster continues to climb a mountain (CELESTE PART 2)")](https://www.youtube.com/watch?v=caWoOP0fPVg)
+[![🔴 i love timmy (terraria 7)](https://ytcards.demolab.com/?id=14btHe6wL7c&title=%F0%9F%94%B4+i+love+timmy+%28terraria+7%29&lang=en&timestamp=1770086087&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "🔴 i love timmy (terraria 7)")](https://www.youtube.com/watch?v=14btHe6wL7c)
 <!-- END YOUTUBE-CARDS -->
 
 [![More Videos](https://img.shields.io/badge/More%20Videos-2962FF?style=for-the-badge&logo=youtube)](https://youtube.com/modmonster)
