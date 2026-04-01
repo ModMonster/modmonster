@@ -9,7 +9,12 @@ I make videos on YouTube and like to program and play video games in my free tim
 ### 📺 Latest YouTube Videos
 
 <!-- BEGIN YOUTUBE-CARDS -->
-
+[![🔴 Can I beat Minecraft bingo before Alix gets a suit?](https://ytcards.demolab.com/?id=zMjPwgJ59FM&title=%F0%9F%94%B4+Can+I+beat+Minecraft+bingo+before+Alix+gets+a+suit%3F&lang=en&timestamp=1774964386&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "🔴 Can I beat Minecraft bingo before Alix gets a suit?")](https://www.youtube.com/watch?v=zMjPwgJ59FM)
+[![🔴 SPEEDRUNNING THE FIRST VERSION OF MINECRAFT :O](https://ytcards.demolab.com/?id=m_bKmqLprIY&title=%F0%9F%94%B4+SPEEDRUNNING+THE+FIRST+VERSION+OF+MINECRAFT+%3AO&lang=en&timestamp=1774315848&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "🔴 SPEEDRUNNING THE FIRST VERSION OF MINECRAFT :O")](https://www.youtube.com/watch?v=m_bKmqLprIY)
+[![🔴 i miss my wife tails (terraria 12)](https://ytcards.demolab.com/?id=UIYmIQcHggY&title=%F0%9F%94%B4+i+miss+my+wife+tails+%28terraria+12%29&lang=en&timestamp=1773710145&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "🔴 i miss my wife tails (terraria 12)")](https://www.youtube.com/watch?v=UIYmIQcHggY)
+[![🔴 SORRY GUYS IM NOT DEAD GUYS (terraria 11)](https://ytcards.demolab.com/?id=DGFH5gT2JZE&title=%F0%9F%94%B4+SORRY+GUYS+IM+NOT+DEAD+GUYS+%28terraria+11%29&lang=en&timestamp=1773107941&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "🔴 SORRY GUYS IM NOT DEAD GUYS (terraria 11)")](https://www.youtube.com/watch?v=DGFH5gT2JZE)
+[![🔴 timothee chalamalabingbong (terraria 10)](https://ytcards.demolab.com/?id=lk_DLH_pQco&title=%F0%9F%94%B4+timothee+chalamalabingbong+%28terraria+10%29&lang=en&timestamp=1772504078&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "🔴 timothee chalamalabingbong (terraria 10)")](https://www.youtube.com/watch?v=lk_DLH_pQco)
+[![🔴 SMARIE IS DEAD (the chatbot lol my bird is fine)](https://ytcards.demolab.com/?id=ho9KAfrbdVQ&title=%F0%9F%94%B4+SMARIE+IS+DEAD+%28the+chatbot+lol+my+bird+is+fine%29&lang=en&timestamp=1772116202&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "🔴 SMARIE IS DEAD (the chatbot lol my bird is fine)")](https://www.youtube.com/watch?v=ho9KAfrbdVQ)
 <!-- END YOUTUBE-CARDS -->
 
 [![More Videos](https://img.shields.io/badge/More%20Videos-2962FF?style=for-the-badge&logo=youtube)](https://youtube.com/modmonster)
