@@ -39,11 +39,11 @@ I make videos on YouTube and like to program and play video games in my free tim
 <summary>Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#11](https://github.com/ModMonster/MineGIT/issues/11) in [ModMonster/MineGIT](https://github.com/ModMonster/MineGIT)
-2. 🔒 Closed issue [#15](https://github.com/ModMonster/MineGIT/issues/15) in [ModMonster/MineGIT](https://github.com/ModMonster/MineGIT)
-3. 🔒 Closed issue [#16](https://github.com/ModMonster/MineGIT/issues/16) in [ModMonster/MineGIT](https://github.com/ModMonster/MineGIT)
-4. ℹ️ Labeled issue [#16](https://github.com/ModMonster/MineGIT/issues/16) in [ModMonster/MineGIT](https://github.com/ModMonster/MineGIT)
-5. ❗ Opened issue [#16](https://github.com/ModMonster/MineGIT/issues/16) in [ModMonster/MineGIT](https://github.com/ModMonster/MineGIT)
+1. ℹ️ Labeled issue [#18](https://github.com/ModMonster/MineGIT/issues/18) in [ModMonster/MineGIT](https://github.com/ModMonster/MineGIT)
+2. ❗ Opened issue [#18](https://github.com/ModMonster/MineGIT/issues/18) in [ModMonster/MineGIT](https://github.com/ModMonster/MineGIT)
+3. ℹ️ Labeled issue [#13](https://github.com/ModMonster/MineGIT/issues/13) in [ModMonster/MineGIT](https://github.com/ModMonster/MineGIT)
+4. ℹ️ Labeled issue [#17](https://github.com/ModMonster/MineGIT/issues/17) in [ModMonster/MineGIT](https://github.com/ModMonster/MineGIT)
+5. ❗ Opened issue [#17](https://github.com/ModMonster/MineGIT/issues/17) in [ModMonster/MineGIT](https://github.com/ModMonster/MineGIT)
 <!--END_SECTION:activity-->
 
 
