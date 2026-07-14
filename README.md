@@ -9,12 +9,7 @@ I make videos on YouTube and like to program and play video games in my free tim
 ### 📺 Latest YouTube Videos
 
 <!-- BEGIN YOUTUBE-CARDS -->
-[![🔴 HERE I COME SAN FRANDISCO (DELTARUNE CHAPTER 5 PART 2)](https://ytcards.demolab.com/?id=wHJAWFUHCcc&title=%F0%9F%94%B4+HERE+I+COME+SAN+FRANDISCO+%28DELTARUNE+CHAPTER+5+PART+2%29&lang=en&timestamp=1783983821&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "🔴 HERE I COME SAN FRANDISCO (DELTARUNE CHAPTER 5 PART 2)")](https://www.youtube.com/watch?v=wHJAWFUHCcc)
-[![🔴 WE ARE SO BACK (DELTARUNE CHAPTER 5)](https://ytcards.demolab.com/?id=7YiuIjmWrbY&title=%F0%9F%94%B4+WE+ARE+SO+BACK+%28DELTARUNE+CHAPTER+5%29&lang=en&timestamp=1783397172&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "🔴 WE ARE SO BACK (DELTARUNE CHAPTER 5)")](https://www.youtube.com/watch?v=7YiuIjmWrbY)
-[![🔴 MODMONSTER INSCRYPTION STREAM](https://ytcards.demolab.com/?id=-KyThXV9S-8&title=%F0%9F%94%B4+MODMONSTER+INSCRYPTION+STREAM&lang=en&timestamp=1780967994&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "🔴 MODMONSTER INSCRYPTION STREAM")](https://www.youtube.com/watch?v=-KyThXV9S-8)
-[![🔴 STOP, BUNDLE TIME (ILLEGAL ITEMS PART 10)](https://ytcards.demolab.com/?id=ta6uzyIQqG8&title=%F0%9F%94%B4+STOP%2C+BUNDLE+TIME+%28ILLEGAL+ITEMS+PART+10%29&lang=en&timestamp=1780363537&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "🔴 STOP, BUNDLE TIME (ILLEGAL ITEMS PART 10)")](https://www.youtube.com/watch?v=ta6uzyIQqG8)
-[![🔴 THE GOLDENEST SWORD (ILLEGAL ITEMS PART 9)](https://ytcards.demolab.com/?id=BCkJm8d2niI&title=%F0%9F%94%B4+THE+GOLDENEST+SWORD+%28ILLEGAL+ITEMS+PART+9%29&lang=en&timestamp=1779758748&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "🔴 THE GOLDENEST SWORD (ILLEGAL ITEMS PART 9)")](https://www.youtube.com/watch?v=BCkJm8d2niI)
-[![🔴 making a NEW minecraft mod!!! (no idea if this is gonna work)](https://ytcards.demolab.com/?id=QgDaslYQJMo&title=%F0%9F%94%B4+making+a+NEW+minecraft+mod%21%21%21+%28no+idea+if+this+is+gonna+work%29&lang=en&timestamp=1779153112&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "🔴 making a NEW minecraft mod!!! (no idea if this is gonna work)")](https://www.youtube.com/watch?v=QgDaslYQJMo)
+
 <!-- END YOUTUBE-CARDS -->
 
 [![More Videos](https://img.shields.io/badge/More%20Videos-2962FF?style=for-the-badge&logo=youtube)](https://youtube.com/modmonster)
