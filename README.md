@@ -39,11 +39,11 @@ I make videos on YouTube and like to program and play video games in my free tim
 <summary>Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#53](https://github.com/ModMonster/chicken_thoughts/issues/53) in [ModMonster/chicken_thoughts](https://github.com/ModMonster/chicken_thoughts)
-2. 🔒 Closed issue [#54](https://github.com/ModMonster/chicken_thoughts/issues/54) in [ModMonster/chicken_thoughts](https://github.com/ModMonster/chicken_thoughts)
-3. 🔒 Closed issue [#55](https://github.com/ModMonster/chicken_thoughts/issues/55) in [ModMonster/chicken_thoughts](https://github.com/ModMonster/chicken_thoughts)
-4. 🚀 Published release [v2.6.3](https://github.com/ModMonster/chicken_thoughts/releases/tag/v2.6.3) in [ModMonster/chicken_thoughts](https://github.com/ModMonster/chicken_thoughts)
-5. 🔒 Closed issue [#69](https://github.com/ModMonster/MineGIT/issues/69) in [ModMonster/MineGIT](https://github.com/ModMonster/MineGIT)
+1. 🗣 Commented on [#71](https://github.com/ModMonster/MineGIT/issues/71#issuecomment-5049932986) in [ModMonster/MineGIT](https://github.com/ModMonster/MineGIT)
+2. ℹ️ Labeled issue [#71](https://github.com/ModMonster/MineGIT/issues/71) in [ModMonster/MineGIT](https://github.com/ModMonster/MineGIT)
+3. ℹ️ Assigned issue [#71](https://github.com/ModMonster/MineGIT/issues/71) in [ModMonster/MineGIT](https://github.com/ModMonster/MineGIT)
+4. 🗣 Commented on [#70](https://github.com/ModMonster/MineGIT/issues/70#issuecomment-5049918065) in [ModMonster/MineGIT](https://github.com/ModMonster/MineGIT)
+5. 🔒 Closed issue [#53](https://github.com/ModMonster/chicken_thoughts/issues/53) in [ModMonster/chicken_thoughts](https://github.com/ModMonster/chicken_thoughts)
 <!--END_SECTION:activity-->
 
 
