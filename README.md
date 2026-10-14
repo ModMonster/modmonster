@@ -29,11 +29,11 @@ I make videos on YouTube and like to program and play video games in my free tim
 <summary>Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#9](https://github.com/Antikythera-Studios/Hats-renewed/issues/9) in [Antikythera-Studios/Hats-renewed](https://github.com/Antikythera-Studios/Hats-renewed)
-2. 🚀 Published release [v2.7.1](https://github.com/ModMonster/chicken_thoughts/releases/tag/v2.7.1) in [ModMonster/chicken_thoughts](https://github.com/ModMonster/chicken_thoughts)
-3. 🗣 Commented on [#53](https://github.com/ModMonster/MineGIT/issues/53#issuecomment-5719177143) in [ModMonster/MineGIT](https://github.com/ModMonster/MineGIT)
-4. 🔒 Closed issue [#53](https://github.com/ModMonster/MineGIT/issues/53) in [ModMonster/MineGIT](https://github.com/ModMonster/MineGIT)
-5. ℹ️ Labeled issue [#74](https://github.com/ModMonster/MineGIT/issues/74) in [ModMonster/MineGIT](https://github.com/ModMonster/MineGIT)
+1. ❗ Opened issue [#8](https://github.com/kipawepro/TinkersConstruct-port-1.21.1/issues/8) in [kipawepro/TinkersConstruct-port-1.21.1](https://github.com/kipawepro/TinkersConstruct-port-1.21.1)
+2. ❗ Opened issue [#9](https://github.com/Antikythera-Studios/Hats-renewed/issues/9) in [Antikythera-Studios/Hats-renewed](https://github.com/Antikythera-Studios/Hats-renewed)
+3. 🚀 Published release [v2.7.1](https://github.com/ModMonster/chicken_thoughts/releases/tag/v2.7.1) in [ModMonster/chicken_thoughts](https://github.com/ModMonster/chicken_thoughts)
+4. 🗣 Commented on [#53](https://github.com/ModMonster/MineGIT/issues/53#issuecomment-5719177143) in [ModMonster/MineGIT](https://github.com/ModMonster/MineGIT)
+5. 🔒 Closed issue [#53](https://github.com/ModMonster/MineGIT/issues/53) in [ModMonster/MineGIT](https://github.com/ModMonster/MineGIT)
 <!--END_SECTION:activity-->
 
 
